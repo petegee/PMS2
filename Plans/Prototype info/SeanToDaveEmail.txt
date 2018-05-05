@@ -1,0 +1,18 @@
+From: Sean Moloney <sean.moloney@iinet.net.au>;
+To: <dlpope@rocketmail.com>;
+Subject: PMS 2
+Sent: Sun, May 25, 2014 9:42:23 AM
+
+Hi Dave,
+ 
+Here are the PMS 2 airfoils. There are three - a root, mid and tip section. The airfoils are designed to be close to their best at 150-400+. They’re definitely not meant for frontside use but they should still fly well for launch and landing. If Xfoil is to be believed they’re slightly better than the new D3DP airfoils until about 400mph... : ) They’re very close to the HN1038 from 150-200 and above that they start getting better than the HN, until it’s miles behind... They’re much better than the RK40 almost everywhere. The root foil stalls a little earlier than the other two so that should make for safe launching and landing. They’re still very good above 400 but some of the more extreme airfoils are just a tiny bit better.
+ 
+These airfoils will need accurate building to get the best from them - if the wing is a little bumpy or the shape is a bit off the boundary layer could become turbulent a little earlier than Xfoil predicts and that would degrade performance a fair bit. But they aren’t as critical as some of the more extreme airfoils.
+ 
+I’ve included a suggested planform if you’re interested. It uses three panels rather than two but that should give you a more accurate wing using Kev’s method - if the panels are too long I’d be concerned the middle of each panel could be a bit off, the same goes for bagged wings. The three panels also get you closer to an elliptical lift distribution. This planform still has a high AR for its span but fitting gear would be a little easier.
+ 
+I had a quick check of your tail sizing – I reckon the tail moment might be just a little longer than necessary, if you move the wing say 50mm closer to the tail that would be good IMO. The distance between the tail and wing is 660mm on the drawing you sent, as a comparison my 2.5M Needle and 2.3M bagged Deepend are both 610mm. With the 660mm tail moment the tail volume is just a bit bigger than necessary, but not by much. If you drop the tail moment to say 610-620mm the tail volume is perfect (IMO).
+ 
+All the best,
+ 
+Sean.
