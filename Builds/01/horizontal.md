@@ -19,7 +19,8 @@
 * Plenty strong enough torsionally.
 * flap just strong enough torsionally after back-filling with splooge mix.
 * bit of a bump in profile where the carbon tow was placed.
-* weight: ??
+* weight: 45g
+
 
 
 
