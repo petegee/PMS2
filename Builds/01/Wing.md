@@ -33,6 +33,7 @@ On each side wet out with Wests Systems 105 epoxy and 205 slow hardener 1:5 rati
 12. Mould split and wing extracted 18 hours later.
 
 ## Result:
+* 1.2kg untrimmed weight
 * Terrible stickup... Very difficult to split moulds!! Paint stuck everywhere. surface finish a mess... had to fill and re-paint. 
 * Main wing torsional stiffness is excellent!
 * Control surface torsional stiffness is excellent!
