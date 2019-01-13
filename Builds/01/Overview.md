@@ -1,4 +1,4 @@
-# PMS2 Build no. 1 
+# PMS2 Build no. 1 (DESTROYED)
 
 # Objective
 Build a functional mid-weight carbon version for general use and proving the wing mould for PG.
@@ -15,5 +15,8 @@ Build a functional mid-weight carbon version for general use and proving the win
 
 # Speeds:
 * 221 MPH June 2018
+* 250 MPH Jan 2019 (RIP)
+
+
 
 
