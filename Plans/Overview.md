@@ -6,11 +6,11 @@ The initial prototype PMS 2 was built by Dave Pope with a vac-bagged foam-cored 
 
 The wing moulds were build several years later by Pete Glassey. The wing design and mold CAD work was done by Joe Wurts. The CAM 3D CNC milling was done by Peter Williams. The moulds were milled from laminated corian bench-top material. 
 
-##CoG Caclulations 
+## CoG Caclulations (old)
 Note: this is based on original triple-tapered prototype planform; which should be close enough as a starting point.
 https://www.ecalc.ch/cgcalc.php?deeplink=PMS%202%20(orig%20planform);cm;17;15.5;12.2;7.2;0;0;0;1.7;5;0;0;40;35;25;0;0;0.85;9;5;0;0;0;0;3;0;0;0;0;16;%20;%20;%20;0;82;25;10;
 
-##Changes:
+## Changes:
 
 * new horizontal stabiliser mold has been CAD/CNC manufactured by Don Tester
 * new Fuselage mold has been CAD designed and will be CNC cut sometime this year (2020) out of corian by Pete Williams
