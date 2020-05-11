@@ -9,6 +9,7 @@ A new fuselage is being designed and a mold will be machined for tooling. This i
 * Built in correct incidence with correctly mated tail and wing mounts - easier construction 
 * Bigger fin for more yaw stability and easier install of tail servo
  
+HUGE thanks to Phil Brace who has done the CAD work for the new fuselage.
 
 ## General Dimensions
 * length: 1200mm 
